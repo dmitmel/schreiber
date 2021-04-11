@@ -1,0 +1,26 @@
+name: schreiber
+version: 0.1.0
+synopsis: Isoteric IDE for isoteric languages
+description: See README at <https://github.com/dmitmel/schreiber#readme>
+category: IDE
+copyright: (c) 2017 Dmytro Meleshko
+author: Dmytro Meleshko
+maintainer: Dmytro Meleshko <dmytro.meleshko@gmail.com>
+github: dmitmel/schreiber
+license: Apache-2.0
+stability: stable
+dependencies:
+- base
+- vty
+- brick
+- text
+ghc-options:
+- -Wall
+- -threaded
+extra-source-files:
+- README.md
+- LICENSE
+executables:
+    schreiber:
+        main: Main.hs
+        source-dirs: src

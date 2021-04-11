@@ -1,0 +1,38 @@
+Permissions  Size User    Group Date Modified Name
+drwxr-xr-x      - dmitmel staff  2 May  2017  ./
+drwxr-xr-x      - dmitmel staff 12 Apr 02:32  ├── .git/
+drwxr-xr-x      - dmitmel staff 12 Apr 02:32  │  ├── hooks/
+.rwxr-xr-x    478 dmitmel staff 30 Apr  2017  │  │  ├── applypatch-msg.sample*
+.rwxr-xr-x    896 dmitmel staff 30 Apr  2017  │  │  ├── commit-msg.sample*
+.rwxr-xr-x    189 dmitmel staff 30 Apr  2017  │  │  ├── post-update.sample*
+.rwxr-xr-x    424 dmitmel staff 30 Apr  2017  │  │  ├── pre-applypatch.sample*
+.rwxr-xr-x  1,6Ki dmitmel staff 30 Apr  2017  │  │  ├── pre-commit.sample*
+.rwxr-xr-x  1,3Ki dmitmel staff 30 Apr  2017  │  │  ├── pre-push.sample*
+.rwxr-xr-x  4,8Ki dmitmel staff 30 Apr  2017  │  │  ├── pre-rebase.sample*
+.rwxr-xr-x    544 dmitmel staff 30 Apr  2017  │  │  ├── pre-receive.sample*
+.rwxr-xr-x  1,2Ki dmitmel staff 30 Apr  2017  │  │  ├── prepare-commit-msg.sample*
+.rwxr-xr-x  3,5Ki dmitmel staff 30 Apr  2017  │  │  └── update.sample*
+drwxr-xr-x      - dmitmel staff 12 Apr 02:32  │  ├── info/
+.rw-r--r--    240 dmitmel staff 30 Apr  2017  │  │  └── exclude
+drwxr-xr-x      - dmitmel staff 12 Apr 02:32  │  ├── objects/
+drwxr-xr-x      - dmitmel staff 30 Apr  2017  │  │  ├── info/
+drwxr-xr-x      - dmitmel staff 30 Apr  2017  │  │  └── pack/
+drwxr-xr-x      - dmitmel staff 12 Apr 02:32  │  ├── refs/
+drwxr-xr-x      - dmitmel staff 30 Apr  2017  │  │  ├── heads/
+drwxr-xr-x      - dmitmel staff 30 Apr  2017  │  │  └── tags/
+.rw-r--r--    137 dmitmel staff 30 Apr  2017  │  ├── config
+.rw-r--r--     73 dmitmel staff 30 Apr  2017  │  ├── description
+.rw-r--r--     23 dmitmel staff 30 Apr  2017  │  ├── HEAD
+.rw-r--r--    174 dmitmel staff  6 Oct  2018  │  └── sourcetreeconfig
+drwxr-xr-x      - dmitmel staff  2 May  2017  ├── src/
+drwxr-xr-x      - dmitmel staff  2 May  2017  │  ├── Brick/
+drwxr-xr-x      - dmitmel staff  2 May  2017  │  │  └── Widgets/
+.rw-r--r--  7,1Ki dmitmel staff  5 May  2017  │  │     └── Tabs.hs
+.rw-r--r--  3,7Ki dmitmel staff  2 May  2017  │  └── Main.hs
+.rw-r--r--    114 dmitmel staff  2 May  2017  ├── .save.cson
+.rw-r--r--    113 dmitmel staff 30 Apr  2017  ├── ChangeLog.md
+.rw-r--r--   11Ki dmitmel staff 30 Apr  2017  ├── LICENSE
+.rw-r--r--    536 dmitmel staff  1 May  2017  ├── package.yaml
+.rw-r--r--  1,1Ki dmitmel staff  2 May  2017  ├── schreiber.cabal
+.rw-r--r--     46 dmitmel staff  2 May  2017  ├── Setup.hs
+.rw-r--r--  2,1Ki dmitmel staff 30 Apr  2017  └── stack.yaml

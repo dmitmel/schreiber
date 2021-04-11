@@ -1,0 +1,6 @@
+"package.yaml":
+    command: [
+        "hpack"
+        "cabal configure"
+    ]
+# "src/**/*.hs": "hindent ${path}"
